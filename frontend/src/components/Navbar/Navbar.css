@@ -1,0 +1,18 @@
+.navbar .active {
+  padding-bottom: 2px;
+  border-bottom: 2px solid rgb(101, 163, 13);
+}
+
+.navbar-search-icon {
+  position: relative;
+}
+
+.navbar-search-icon .dot {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  min-width: 10px;
+  min-height: 10px;
+  background-color: rgb(255, 106, 13);
+  border-radius: 5px;
+}
